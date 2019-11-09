@@ -12,6 +12,7 @@ jupyter = "*"
 pandas = "*"
 Shapely = "*"
 bf9230d050c1d5d3d1ba3dc5c88609220008f7cb = {git = "https://github.com/nikitakit/xdbg"}
+nbdime = "*"
 
 [requires]
 python_version = "3.7"
