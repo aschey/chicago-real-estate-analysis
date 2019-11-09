@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "711b58512926b63124d030fcf512778ab000798e056e8c87af112363d39fb5d1"
+            "sha256": "a5df0d826e70ee9c0646135ea59da92e05cc03d7255b77d4111fdc37e6bf723a"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -29,6 +29,10 @@
                 "sha256:bbbf4b1e5cd2bdb08f915895b51081c041bac22394fdfcfdfbe9f14b77c08bf2"
             ],
             "version": "==0.1.0"
+        },
+        "bf9230d050c1d5d3d1ba3dc5c88609220008f7cb": {
+            "git": "https://github.com/nikitakit/xdbg",
+            "ref": "bf9230d050c1d5d3d1ba3dc5c88609220008f7cb"
         },
         "bleach": {
             "hashes": [
