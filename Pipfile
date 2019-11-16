@@ -4,6 +4,7 @@ url = "https://pypi.org/simple"
 verify_ssl = true
 
 [dev-packages]
+pylint = "*"
 
 [packages]
 requests = "*"
@@ -15,4 +16,4 @@ bf9230d050c1d5d3d1ba3dc5c88609220008f7cb = {git = "https://github.com/nikitakit/
 nbdime = "*"
 
 [requires]
-python_version = "3.7"
+python_version = "3.8"
